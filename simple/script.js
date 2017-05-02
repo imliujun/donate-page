@@ -2,8 +2,8 @@ jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
 	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
-	var AliPayQR	=	'images/AliPayQR.png';
-	var WeChanQR	=	'images/WeChanQR.png';
+	var AliPayQR	=	'http://ooyo0saao.bkt.clouddn.com/static/images/AliPayQR.png';
+	var WeChanQR	=	'http://ooyo0saao.bkt.clouddn.com/static/images/WeChanQR.png';
 
 	
 
