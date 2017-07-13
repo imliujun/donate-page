@@ -2,10 +2,10 @@ jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
 	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
-	var AliPayQR	=	'http://ooyo0saao.bkt.clouddn.com/static/images/AliPayQR.png';
-	var WeChanQR	=	'http://ooyo0saao.bkt.clouddn.com/static/images/WeChanQR.png';
+	var AliPayQR	=	'http://images.imliujun.com/static/images/AliPayQR.png';
+	var WeChanQR	=	'http://images.imliujun.com/static/images/WeChanQR.png';
 
-	
+
 
 	function showQR(QR) {
 		if (QR) {
